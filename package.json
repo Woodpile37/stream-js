@@ -44,7 +44,7 @@
     "eslint-plugin-prettier": "4.2.1",
     "husky": "8.0.3",
     "jest": "29.4.3",
-    "jest-environment-jsdom": "29.4.3",
+    "jest-environment-jsdom": "29.6.2",
     "jest-websocket-mock": "2.4.0",
     "lint-staged": "13.2.3",
     "microbundle": "0.15.0",
