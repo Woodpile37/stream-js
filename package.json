@@ -36,7 +36,7 @@
     "@types/jest": "29.5.3",
     "@types/phoenix": "1.5.4",
     "@types/ws": "8.5.4",
-    "@typescript-eslint/eslint-plugin": "5.54.0",
+    "@typescript-eslint/eslint-plugin": "6.2.1",
     "@typescript-eslint/parser": "6.2.1",
     "concurrently": "7.6.0",
     "eslint": "8.46.0",
